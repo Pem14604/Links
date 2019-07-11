@@ -6,3 +6,4 @@
 - Boosting with fasttext with TF-IDF weightage..https://towardsdatascience.com/supercharging-word-vectors-be80ee5513d
 - https://github.com/boudinfl/pke
 - https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/
+- Neo4j-Query update using Python https://pythontic.com/database/neo4j/create%20nodes%20and%20relationships
